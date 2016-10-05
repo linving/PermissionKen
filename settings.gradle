@@ -1,0 +1,1 @@
+include ':app', ':permissionken-api', ':permission-annotation', ':permissionken-compiler'
